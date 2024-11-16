@@ -30,7 +30,7 @@ This notebook performs data analysis and clustering using Python. It integrates 
 2. Open the notebook in Jupyter:
 
    ```bash
-   jupyter notebook Untitled.ipynb
+   jupyter notebook circles.ipynb
    ```
 
 3. Follow the markdown instructions and run the code cells sequentially.
